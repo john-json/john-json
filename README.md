@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
-<pre align="center">
-<div align="center">
+
+<div text-align="center">
 
 ```
        █████  █████████     ███████    ██████   █████
