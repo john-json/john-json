@@ -30,7 +30,7 @@
 
 ---
 
-<img align="right" width="28%" style="border-radius:50%; object-fit:cover;" src="[https://scontent-dus1-1.xx.fbcdn.net/v/t39.30808-6/759964911_10163115914647546_2225895301981473201_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=D2ZY015EsR4Q7kNvwEyFVbz&_nc_oc=Adqg6HmsnLmOXpJlFJroWPIKIuOV4vuRYnMK5sneX1vzNOkLs5VYzKHSUvikN1Q-bghkAbI0QlgxI_6TTkiC-8zf&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=BH6RPjMtEGFf6Jpn9QYnlQ&_nc_ss=7b2a8&oh=00_AQHEfURPzck9fX4rd_UWa-TTBtlcJvDV2UFRpl2e51ICZQ&oe=6A71595D](https://i.postimg.cc/26jkv3R0/profile.png)"/>
+<img align="right" width="28%" style="border-radius:50%; object-fit:cover;" src="https://i.postimg.cc/26jkv3R0/profile.png"/>
 
 ### `~/about`
 
