@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-
+<pre align="center">
 ```
        █████  █████████     ███████    ██████   █████
       ░░███  ███░░░░░███  ███░░░░░███ ░░██████ ░░███ 
@@ -19,6 +19,7 @@
                                                      
                                                      
 ```
+</pre>
 
 **macOS Developer · UI/UX Designer · System Customization**
 
